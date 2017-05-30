@@ -1,5 +1,6 @@
 // Name: Gabriele Josephs
 // Section: 04
+// Create a class that displays ASCII art of my creation when compiled and ran.
 
 public class SpaceShipArt {
 	public static void main(String args[]) {
