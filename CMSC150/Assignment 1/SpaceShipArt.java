@@ -3,11 +3,11 @@
 // Create a class that displays ASCII art of my creation when compiled and ran.
 
 public class SpaceShipArt {
-	public static void main(String args[]) {
-	    // Name of art: Earth Under Attack
-	    System.out.println("Earth Under Attack");
+    public static void main(String args[]) {
+        // Name of art: Earth Under Attack
+	System.out.println("Earth Under Attack");
 
-	    //The art
+	//The art
         System.out.println("+                *                 *             888888888888888888888888          *       *          *                        ");
         System.out.println("+++        *                                    888888888888888888                                                             ");
         System.out.println("++++                                *            888888888888888888888888      *          *        *      *                    ");
@@ -36,6 +36,5 @@ public class SpaceShipArt {
         System.out.println("+++                                  888888                                                                                    ");
         System.out.println("++                         *        888888888888888888888888          *                *                                       ");
         System.out.println("+          *                       88888888888888888888          *                                            *                ");
-	}
-
+    }
 }
